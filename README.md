@@ -21,8 +21,11 @@ A simple registry entry to utilize Strings2, a string dumper program.
 
 # Checksum (SHA-1)
 Script (dumpStrings.cmd): `06D1C8FFA5F69EEA96D3B0CE3F303B8B777C8648`
+
 Registry Key for installation: `8A7B11201DFB66564B64473A0ACA6A5D75948E42`
+
 Registry Key for uninstall: `D8263361E793A93DB699E390A2217CEF9A812933`
+
 Strings2 (May 2022 version): `DF186AB88C4E0EA2FF5D5477B2077EC628C42D18`
 
 If you do not trust the version included, please download a new copy from https://github.com/glmcdona/strings2
